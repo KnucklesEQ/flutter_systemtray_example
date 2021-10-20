@@ -16,6 +16,9 @@ dependencies:
   tray_manager: ^0.1.0
   system_tray: ^0.0.7
 
+  bot_toast: ^4.0.1
+  preference_list: ^0.0.1
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -24,3 +27,6 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+
+  assets:
+    - images/
